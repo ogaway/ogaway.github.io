@@ -27,10 +27,26 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <h3>
+
+<h3>
+<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>安定結婚問題</h3>
+
+<p>
+  ・<a href="marriage/marriage0.php">マッチングテスト</a><br />
+</p>
+
+<p>
+  入力した順位によりone-to-oneの安定結婚問題マッチングが確認できます。
+  phpとpythonを使って動かしています。
+</p>
+
+<h3>
 <a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
 
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
+<p>
+  ここから下は何かに使える機会があるかもしれないので、
+  テンプレートをただ雑に残しています。マッチングとは関係ないです。
+</p>
 
 <pre><code>$ cd your_repo_root/repo_name
 $ git fetch origin
