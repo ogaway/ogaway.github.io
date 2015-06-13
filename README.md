@@ -2,5 +2,8 @@ Y.Ogawa Web Page
 =====
 ・[WebPage](https://yoshimasaogawa.github.io/)  
   
-コード書いた後にGithubのWebPageがPHPにサポートしていないことに気づきました。。。
-サーバーは持っていないのでコードだけ公開しておきます(笑)ちゃんと入力通りに動くはずです。
+Brython.jsを使うことによりJavascriptを通してpythonコードをほぼそのままブラウザに表示させることが可能らしく今回はそれを使ってみました。とりあえず無事動きます。  
+  
+Brythonについて  
+・[Brython](http://www.brython.info/)  
+・[ブラウザでPython：Brythonのすすめ](http://qiita.com/Tsutomu-KKE@github/items/32a89fa45b1aad41da5d)
