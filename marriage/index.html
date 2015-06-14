@@ -1,13 +1,35 @@
-
 <!DOCTYPE html>
 <html>
 
-     <head>
-       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-       <script src="brython.js"></script>
-     </head>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Yoshimasaogawa.GitHub.io : ">
+    <link rel="stylesheet" type="text/css" media="screen" href="../stylesheets/stylesheet.css">
+    <script src="brython.js"></script>
+    <title>Y.Ogawa</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="../index.html">Go to Top</a>
+
+          <h1 id="project_title">Y.Ogawa</h1>
+          <h2 id="project_tagline"></h2>
+
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
 
      <body onload="brython()">
+       <h3>
+       <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>安定結婚問題</h3>
 
          <script type="text/python">
          from browser import document, alert
@@ -69,6 +91,8 @@
                      info = document["info"]
                      info.text = "順位を数字で入力してください。"
                  else:
+                     info = document["info"]
+                     info.text = ""
                      malenum = int(malenum)
                      femalenum = int(femalenum)
                      m_single = []
