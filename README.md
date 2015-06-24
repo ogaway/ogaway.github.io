@@ -1,6 +1,6 @@
 Y.Ogawa Web Page
 =====
-・[WebPage](https://yoshimasaogawa.github.io/)  
+・[WebPage](https://ogaway.github.io/)  
   
 Brython.jsを使うことによりJavascriptを通してpythonコードをほぼそのままブラウザに表示させることが可能らしく今回はそれを使ってみました。とりあえず無事動きます。  
   
