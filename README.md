@@ -1,9 +1,7 @@
-Y.Ogawa Web Page
-=====
-・[WebPage](https://ogaway.github.io/)  
-  
-Brython.jsを使うことによりJavascriptを通してpythonコードをほぼそのままブラウザに表示させることが可能らしく今回はそれを使ってみました。とりあえず無事動きます。  
-  
-Brythonについて  
+#ogaway.github.io
+[Y.Ogawa's Web page](https://ogaway.github.io/) for learning economics.  
+##Contents
+・Matching Market ( [details](https://github.com/ogaway/Matching-Market) )  
+...coming soon
+##Packages
 ・[Brython](http://www.brython.info/)  
-・[ブラウザでPython：Brythonのすすめ](http://qiita.com/Tsutomu-KKE@github/items/32a89fa45b1aad41da5d)
