@@ -1,7 +1,8 @@
 #ogaway.github.io
-[Y.Ogawa's Web page](https://ogaway.github.io/).  
+## Web Page
+[Y.Ogawa](https://ogaway.github.io/).  
 
-##Contents
+## Contents
 * ゲーム理論
     * Gambit
     * マッチング理論
